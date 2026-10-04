@@ -1,0 +1,9 @@
+Bases_de_datos/SQLData/
+
+# Archivos compilados de Java
+*.class
+target/
+bin/
+
+# Archivos multimedia grandes
+*.mp4
